@@ -54,16 +54,18 @@ button {
 
 .h{
   color: #F24444;
+  background: #CFD1ED;
 }
 .d{
   color: #0F9E23;
+  background: #CFD1ED;
 }
 
 .equal {
   color: #F24444;
   width: 115px;
   border-radius: 40px;
-  background-color: #ecf0f3;
+  background-color: #66B9BB;
   box-shadow: -5px -5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, .16);
 }
 
